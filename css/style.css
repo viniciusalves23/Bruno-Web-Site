@@ -2556,7 +2556,6 @@ h1, h2, h3, h4, h5,
   .ftco-about-section .img {
     height: 600px;
     background: #ffd615;
-    background-position: center center;
     background-size: cover;
     background-repeat: no-repeat; }
     @media (max-width: 767.98px) {
